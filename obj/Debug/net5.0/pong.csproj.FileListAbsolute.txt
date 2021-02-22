@@ -1,0 +1,15 @@
+/Users/tsinks/Desktop/Epicodus/ping-pong/obj/Debug/net5.0/pong.csprojAssemblyReference.cache
+/Users/tsinks/Desktop/Epicodus/ping-pong/obj/Debug/net5.0/pong.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tsinks/Desktop/Epicodus/ping-pong/obj/Debug/net5.0/pong.AssemblyInfoInputs.cache
+/Users/tsinks/Desktop/Epicodus/ping-pong/obj/Debug/net5.0/pong.AssemblyInfo.cs
+/Users/tsinks/Desktop/Epicodus/ping-pong/obj/Debug/net5.0/pong.csproj.CoreCompileInputs.cache
+/Users/tsinks/Desktop/Epicodus/ping-pong/bin/Debug/net5.0/pong.deps.json
+/Users/tsinks/Desktop/Epicodus/ping-pong/bin/Debug/net5.0/pong.runtimeconfig.json
+/Users/tsinks/Desktop/Epicodus/ping-pong/bin/Debug/net5.0/pong.runtimeconfig.dev.json
+/Users/tsinks/Desktop/Epicodus/ping-pong/bin/Debug/net5.0/pong.dll
+/Users/tsinks/Desktop/Epicodus/ping-pong/bin/Debug/net5.0/ref/pong.dll
+/Users/tsinks/Desktop/Epicodus/ping-pong/bin/Debug/net5.0/pong.pdb
+/Users/tsinks/Desktop/Epicodus/ping-pong/obj/Debug/net5.0/pong.dll
+/Users/tsinks/Desktop/Epicodus/ping-pong/obj/Debug/net5.0/ref/pong.dll
+/Users/tsinks/Desktop/Epicodus/ping-pong/obj/Debug/net5.0/pong.pdb
+/Users/tsinks/Desktop/Epicodus/ping-pong/obj/Debug/net5.0/pong.genruntimeconfig.cache
